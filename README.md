@@ -1,4 +1,4 @@
-*Membuat Repository*
+#Membuat Repository#
 1. Login Github lalu buat Repository dengan judul Lab1Web
 ![1.png](img/1.png)
 
@@ -59,8 +59,12 @@ dan tampilan hyperlink
 ![26.png](img/26.png)
 
 **Jawab Pertanyaan Berikut**
-`1. Lakukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya adakah error ketika terjadi kesalahan penulisan tag? jika terjadi kesalahan penulisan tag maka tag tidak berfungsi`
-`2. Apa perbedaan dari tag <p> dengan tag <br>, berikan penjelasannya! tag p membuat paragraf sedangkan tag br untuk membuat alenia baru`
-`3. Apa perbedaan atribut title dan alt pada tag <img>, berikan penjelasannya! title img adalah atribut yang dapat ditambahkan ke tag gambar dalam HTML sedangkan ALT adalah atribut yang di tamabhkan ke tag gambar dalam HTML. tek ini muncul didalam wadah gambar ketika gambar tidak dapat di tampilkan. ini membantu mesin pencari memahami isi dari gambar tersebut.` 
-`4. Untuk mengatur ukuran gambar, digunakan atribut width dan height. Agar tampilan gambar proporsional sebaiknya kedua atribut tersebut diisi semua atau tidak? Berikan penjelasannya! jika ingin gambar presisi dengan ukuran panjang dan lebar nya cukup dengan menggunakan atribut weidth saja karena atribut ini berfungsi mengatur lebar gambar secara keseluruhan. karena atribut height hanya dapat mengatur tinggi gambar saja.`
-`5. Pada link tambahkan atribut target dengan nilai atribut bervariasi ( _blank, _self, _top,_parent ), apa yang terjadi pada masing-masing nilai antribut tersebut? blank digunakan untuk membuka windows baru. self digunakan apabila target frame adalah frame tempat link berada. top digunakan apabila target frame adalah windows tempat frame berada menggunkan top maka definisi frame yang ada apa windows browser akan hilang diganti dengan frame yang baru jika ada. parent digunaka apabila frame adalah setingkat dengan frame link berada akibat dari target frame akan dsama jika tempat frame link berada hanya satu level dibawah definisi frame windows.` 
+1. Lakukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya adakah error ketika terjadi kesalahan penulisan tag? jika terjadi kesalahan penulisan tag maka tag tidak berfungsi
+
+2. Apa perbedaan dari tag <p> dengan tag <br>, berikan penjelasannya! tag p membuat paragraf sedangkan tag br untuk membuat alenia baru
+
+3. Apa perbedaan atribut title dan alt pada tag <img>, berikan penjelasannya! title img adalah atribut yang dapat ditambahkan ke tag gambar dalam HTML sedangkan ALT adalah atribut yang di tamabhkan ke tag gambar dalam HTML. tek ini muncul didalam wadah gambar ketika gambar tidak dapat di tampilkan. ini membantu mesin pencari memahami isi dari gambar tersebut.
+
+4. Untuk mengatur ukuran gambar, digunakan atribut width dan height. Agar tampilan gambar proporsional sebaiknya kedua atribut tersebut diisi semua atau tidak? Berikan penjelasannya! jika ingin gambar presisi dengan ukuran panjang dan lebar nya cukup dengan menggunakan atribut weidth saja karena atribut ini berfungsi mengatur lebar gambar secara keseluruhan. karena atribut height hanya dapat mengatur tinggi gambar saja.
+
+5. Pada link tambahkan atribut target dengan nilai atribut bervariasi ( _blank, _self, _top,_parent ), apa yang terjadi pada masing-masing nilai antribut tersebut? blank digunakan untuk membuka windows baru. self digunakan apabila target frame adalah frame tempat link berada. top digunakan apabila target frame adalah windows tempat frame berada menggunkan top maka definisi frame yang ada apa windows browser akan hilang diganti dengan frame yang baru jika ada. parent digunaka apabila frame adalah setingkat dengan frame link berada akibat dari target frame akan dsama jika tempat frame link berada hanya satu level dibawah definisi frame windows. 
